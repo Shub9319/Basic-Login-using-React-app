@@ -1,0 +1,57 @@
+.Signup {
+    width: 400px;
+    margin: auto;
+    padding-top: 30px;
+
+  }
+  
+.signup-header{
+    text-align: center;
+    color:white;
+    background-color: blueviolet;
+    margin: 0px;
+    font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+label{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    
+}
+
+.login-container{
+    /* background-color: white; */
+    padding: 20px;
+}
+
+.Signup input {
+    box-sizing: border-box;
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+ #Signup{
+     margin-top: 10px;
+     background-color: blueviolet;
+     color: whitesmoke;
+ }
+ .wrapper{
+    /* background: linear-gradient(
+        309deg,
+        rgb(180,93,238) 0%,
+        rgba(59,181,230,0.877)79%
+    ); */
+    background-image: url("C:\React_projects\project-1\src\coffee.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    /* padding: 100px; */
+    
+ }

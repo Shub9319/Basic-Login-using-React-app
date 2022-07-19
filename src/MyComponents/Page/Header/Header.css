@@ -1,0 +1,29 @@
+.Heading{
+    text-align: center;
+    font-family:initial;
+    
+    color:lavenderblush;
+    background-image: linear-gradient(to right, rgb(241, 134, 134) , rgb(173, 63, 63));
+    font-weight: bold;
+    font-size: 50px;
+    padding: 20px;
+    margin: 0px;
+}
+
+.navbar  {
+    
+    background-image: linear-gradient(to right, rgb(241, 134, 134) , rgb(173, 63, 63));
+}
+.nav-link{
+    color: lavenderblush;
+
+}
+.navbar-brand{
+    font-weight: bold;
+    color: rgb(61, 17, 17);
+    font-size: 30px;
+}
+
+.nav-item{
+    padding-right: 30px ;
+}
