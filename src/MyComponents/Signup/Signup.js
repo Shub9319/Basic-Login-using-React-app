@@ -22,7 +22,7 @@ export const Signup = (props) => {
     return (
         <>
         <div className="wrapper ">
-        <div  className="Signup">
+        <div  className="signup">
             {/* Signup Header */}
         <h2 className="signup-header">Create Account</h2>
 
